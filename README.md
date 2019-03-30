@@ -5,4 +5,4 @@ Este código foi desenvolvido por Ralph Heymsfeld da Robotics Hobbizine e usei c
 
 https://www.youtube.com/watch?v=c5TA2Y8DeaM&list=PLYAGaVIlnsYaRibf94GEOwZh7qdCLcbJ5
 
-this code was developed Ralph Heymsfeld from http://robotics.hobbizine.com/arduinoann.html
+this code was developed by Ralph Heymsfeld from http://robotics.hobbizine.com/arduinoann.html
