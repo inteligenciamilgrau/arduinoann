@@ -1,4 +1,4 @@
-# this code was developed Ralph Heymsfeld from http://robotics.hobbizine.com/arduinoann.html
+// this code was developed Ralph Heymsfeld from http://robotics.hobbizine.com/arduinoann.html
 
 #include <math.h>
 
